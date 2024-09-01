@@ -1,0 +1,5 @@
+2024-09-01T15:59:30.056Z [ERROR]: First letter of first name must be capitalized
+2024-09-01T15:59:30.058Z [ERROR]: First letter of last name must be capitalized
+2024-09-01T15:59:30.058Z [ERROR]: Password must contain at least one special character, one uppercase letter, one numeric character, and be at least 8 characters long
+2024-09-01T15:59:30.059Z [ERROR]: Invalid email address
+2024-09-01T15:59:30.059Z [ERROR]: Phone number must be at least 10 digits long
